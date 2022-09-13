@@ -1,6 +1,6 @@
 Hello everyone, I'm sachin yadav . 
-I have done B.tech (cse) in 2021 & 
-MBA (Finance & Marketing) in 2023.
+ 
+
 
 
 <!---
